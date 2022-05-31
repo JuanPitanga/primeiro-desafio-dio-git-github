@@ -1,0 +1,2 @@
+Link para baixar o Git: 
+O Git bash éum terminal para usar o Git
